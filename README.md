@@ -1,6 +1,6 @@
 # Memorki - AndroidApp
 
-![N|Solid](https://i.imgur.com/py9wr36.png) 
+![N|Solid](https://i.imgur.com/0lUG7NG.png) 
 
 "**Memorki**" is a memory training game. Just select the difficulty level and the theme of the cards and the game will begin.
 The application allows you to choose the game settings through a beautiful graphical interface.
